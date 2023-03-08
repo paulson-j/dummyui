@@ -1,0 +1,32 @@
+.main-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    color: #000;
+    padding: 10px 20px;
+    border-bottom: 0.5px solid #ccc;
+    height: 500px;
+  }
+
+  
+  .main-content-image {
+    display: flex;
+    align-items: center;
+  }
+  
+  .main-content-image img {
+    height: 400px;
+  }
+
+  .main-content .main-content-text .main-content-title{
+    color: #0063A3;
+    font-weight: bolder;
+    font-size: 40px;
+  }
+  
+  .main-content-text div {
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }

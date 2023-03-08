@@ -1,0 +1,39 @@
+.footer {
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+  }
+  
+  .logo-container {
+    align-items: center;
+  }
+  
+  .logo {
+    width: 150px;
+    height: 100px;
+    margin-right: 20px;
+  }
+  
+  footer .logo-container .company-name {
+    font-size: 15px
+    
+  }
+  
+  .social-media-icons {
+    display: flex;
+  }
+  
+  .social-media-icon {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+  }
+  
+  .footer-content{
+    margin: 30px;
+    font-size: 17px;
+  }

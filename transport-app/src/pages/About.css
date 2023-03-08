@@ -1,0 +1,17 @@
+.body{
+    color: grey;
+  }
+  .title h1 span:hover{
+    border-bottom: 5px solid #0063A3 !important;
+  
+  }
+
+  .trimble-btncolor{
+    background-color: #0063A3 !important;
+    color: white;
+  }
+  .trimble-btncolor:hover{
+    background-color: #0073c0 !important;
+    color: white;
+    box-shadow: 1px 1px 5px 1px grey;
+  }
